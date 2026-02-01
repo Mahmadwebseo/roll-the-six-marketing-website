@@ -120,9 +120,9 @@ Conversion points were repeated across key sections to maximize lead generation:
 
 ## Screenshots
 
-> Upload your images to the repository and paste the screenshot links below.
-
-<!-- I will add the exact image linking lines here after upload -->
+![Homepage / Lead Form Hero](Rollthesixmarketing%201.png)
+![Homepage / Lead Form Hero](Rollthesixmarketing%202.png)
+![Homepage / Lead Form Hero](Rollthesixmarketing%203.png)
 
 ---
 
